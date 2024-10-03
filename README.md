@@ -17,7 +17,7 @@ This project implements a negotiation chatbot that simulates a negotiation proce
 git clone https://github.com/yourusername/negotiation-chatbot.git
  ```
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd negotiation-chatbot
