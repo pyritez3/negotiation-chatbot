@@ -12,10 +12,13 @@ This project implements a negotiation chatbot that simulates a negotiation proce
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/negotiation-chatbot.git
    
+```bash
+git clone https://github.com/yourusername/negotiation-chatbot.git
+ ```
+
 2.Navigate to the project directory:
+
 ```bash
 cd negotiation-chatbot
 ```
